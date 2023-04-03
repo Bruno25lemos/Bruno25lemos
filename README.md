@@ -2,6 +2,7 @@
 
 - 🔭 Apaixonado por programação.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
+- 
 - <div align="center">
   <a href="https://github.com/Bruno25lemos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno25lemos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
