@@ -2,7 +2,6 @@
 
 - 🔭 Apaixonado por programação.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
-- 
 - <div align="center">
   <a href="https://github.com/Bruno25lemos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno25lemos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -18,7 +17,6 @@
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </div>
-  
   ##
   
   <div> 
