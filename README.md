@@ -1,10 +1,5 @@
 ### Olá! Eu sou o Bruno. 👋
 
-
-**Bruno25lemos/Bruno25lemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Apaixonado por programação.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
 - <div align="center">
